@@ -5,7 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5fbdef29-6323-44ee-8d27-0ae6735e172c" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,9 +38,16 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_directory_selection": "C:/Users/Пользоватеель/IdeaProjects/JavaDZ7/src/test/java"
+    "last_directory_selection": "C:/Users/Пользоватеель/IdeaProjects/JavaDZ7/src/test/java",
+    "last_opened_file_path": "C:/Program Files/JavaDZ7"
   }
 }]]></component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="mvn clean test" />
+      <command value="mvn clean verify" />
+    </option>
+  </component>
   <component name="RunManager" selected="JUnit.StatisticsServiceTest.findMaxWhenMaximumInMiddle">
     <configuration name="StatisticsServiceTest.findMax" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="JavaDZ7" />
